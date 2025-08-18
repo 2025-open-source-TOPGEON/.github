@@ -1,4 +1,10 @@
-![gif 변환용 프롬프트 예시 ](https://github.com/user-attachments/assets/b23bc1d2-ea11-4ec0-a848-8995d16d2781)# TOPGEON - Synthor
+<p align="center">
+  <img width="200" alt="Synthor Logo" src="https://github.com/user-attachments/assets/2564b321-0bf8-44a8-b53e-d3e599c64497" />
+</p>
+
+
+
+# TOPGEON - Synthor
 
 ---
 
@@ -50,10 +56,14 @@ Frontend · Backend · AI 모듈이 유기적으로 협력하는 통합 시스�
 
 🎥 주요 기능 
 - **데이터 필드별 프롬프트로 조건 설정** (이메일, 비밀번호 등 각 필드별 조건 지정)  
+<img width="1702" height="984" alt="image" src="https://github.com/user-attachments/assets/e6e0ad9c-e4a3-4f11-9e39-1e6699ff5715" />
 ![개별 데이터 프롬프트](https://github.com/user-attachments/assets/ef7d3be0-2f7b-493c-b2f9-95a3599098f4)
 
-- **전체 프롬프트 시연** (한 번의 입력으로 전체 데이터 조건 반영)  
-![gif 변환용 프롬프트 예시 ](https://github.com/user-attachments/assets/34a3b0ee-a5bd-48df-99a4-059c99ba6db1)
+
+- **전체 프롬프트 시연** (한 번의 입력으로 전체 데이터 조건 반영)
+<img width="1702" height="984" alt="image" src="https://github.com/user-attachments/assets/8037e043-093c-479b-a9ff-fd3162bfa972" />
+![전체 프](https://github.com/user-attachments/assets/b310379c-e117-4ff9-be89-f3b0c1887bb8)
+
 
 - **실제 데이터 다운로드 확인** (CSV, SQL 등으로 변환 후 저장)  
 ![데이터 다운로드 ](https://github.com/user-attachments/assets/0519bb35-a42c-414c-a245-35cfe1dd5a70)
