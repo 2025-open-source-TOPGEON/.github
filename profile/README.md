@@ -214,6 +214,5 @@ uvicorn app.main:app --reload --port 9000
 ├─ frontend/         # React(Vite) SPA
 ├─ backend/          # Spring Boot API (Gateway)
 ├─ ai/               # FastAPI + Extractors Registry
-├─ docs/             # 아키텍처 다이어그램, API 명세
-└─ infra/            # Dockerfile, Render/Pages 설정
+├─ templates/        # 이슈, PR 템플릿 통일
 ```
